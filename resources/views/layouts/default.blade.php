@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>@yield('title', 'Sample App') - Laravel tutorial</title>
+	<title>@yield('title', 'Sample App') - Laravel 入门教程</title>
 	<link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
@@ -14,5 +14,6 @@
 			@include('layouts._footer')
 		</div>
 	</div>
+	<script src="/js/app.js"></script>
 </body>
 </html>
